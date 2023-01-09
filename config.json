@@ -1,0 +1,44 @@
+{
+    "senderName": "",
+    "auth": {
+        "username": "",
+        "password": ""
+    },
+    "replyToAddress": "",
+    "templateFiles": [
+        "./templates/outreachTemplate0.html",
+        "./templates/outreachTemplate1.html",
+        "./templates/outreachTemplate2.html",
+        "./templates/outreachTemplate3.html"
+    ],
+    "subjects": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "activeContactFiles": [
+        "./contactFiles/out0.csv",
+        "./contactFiles/out1.csv",
+        "./contactFiles/out2.csv",
+        "./contactFiles/out3.csv"
+    ],
+    "inactiveContactFiles": {
+        "new": "./contactFiles/new.csv",
+        "deleted": "./contactFiles/deleted.csv"
+    },
+    "waitingPeriods": [
+        172800,
+        172800,
+        345600
+    ],
+    "lastAddedNewFile": "./lastAddedNew.txt",
+    "contactsPerWeek": 600,
+    "logFile": "./logFile.txt",
+    "daemonSleepInterval": 30,
+    "firstOutReachMondayTime": "18:00",
+    "newOutreachDay": 0,
+    "delayBetweenEmails": 30,
+    "maxLogFileLength": 50000,
+    "deletedDomainsFile": "./deletedDomains.txt"
+}

@@ -1,0 +1,36 @@
+https://www.google.com/search?q=inurl:linkedin.com/company "financial" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "financial" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "geolocation" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "geolocation" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "supply chain" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "supply chain" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "weather" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "weather" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "blockchain" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "blockchain" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "geospatial" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "geospatial" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "ESG" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "ESG" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "identity" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "identity" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "legal" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "legal" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "crypto" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "crypto" "data"&filter=0
+https://www.google.com/search?q=inurl:linkedin.com/company "price" "data"&filter=0
+https://www.google.com/search?q=inurl:crunchbase.com/organization "price" "data"&filter=0
+
+
+
+
+
+search engines: duckduckgo and bing
+ttps://duckduckgo.com/?q=inurl: (only supports intext, and only supports inurl not site)
+ttps://www.bing.com/search?q=site: (only supports (inbody, and only supports site, not inurl)
+ttps://www.google.com/search?q=inurl: (requires & filter=0 at end of url)
+
+make sure to set results per page for all engines as high as possible (for example, 100, in google)
+
+
+https://.*.linkedin.com/company/ (regex for formatting linkedin urls)
